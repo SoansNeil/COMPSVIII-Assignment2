@@ -2,7 +2,7 @@
 
 2) checkout code,validate HTML,check links,upload artifact
 
-3) it gets the code from the repository, it is necessary to change the code
+3) it gets the code from the repository, it is necessary to change the code to the html 
 
 4) it tells the computer where to deploy the updated page
 
