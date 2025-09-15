@@ -82,6 +82,8 @@ This is a learning project for practicing collaborative development workflows. F
 
 ## License
 
+Yay
+
 This project is for educational purposes.
 
 ---
